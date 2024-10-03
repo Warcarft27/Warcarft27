@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Warcarft27
-- 👀 I’m interested in ethical hacking and programming 
-- 🌱 I’m currently learning programing 
-- 💞️ I’m looking to different way to learn more about cyberspace 
+-  Hi, I’m @Warcarft27
+-  I’m interested in ethical hacking and programming 
+- I’m currently learning programing 
+-  I’m looking to different way to learn more about cyberspace 
 - 
 
 <!---
