@@ -1,6 +1,6 @@
 -  Hi, I’m @Adarsh
 -  I’m interested in ethical hacking and programming 
-- I’m currently learning programing 
+- I’m currently learning programing and web development 
 -  I’m looking to different way to learn more about cyberspace 
 - 
 
